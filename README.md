@@ -1,0 +1,2 @@
+# CloudflareSpeedTest-Server
+使用 CloudFlare Workers 搭建专属CloudflareSpeedTest优选测速地址
