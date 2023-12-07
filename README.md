@@ -9,4 +9,4 @@
    举例 api.abc.com 可以增加 /speed/* 配置最终为 api.abc.com/speed/*
    Zoneq区域选择你的域名
    如果你配置的不是/speed,需要再次进入代码中3行将`"/speed/"`改为你指定的一致即可!
-4. 使用./CloudflareST -url https://api.abc.com/speed/ 或者 ./CloudflareST -url https://test.abc.com/ 即可测速!
+4. 使用`./CloudflareST -url https://api.abc.com/speed/` 或者 `./CloudflareST -url https://test.abc.com/` 即可测速!
